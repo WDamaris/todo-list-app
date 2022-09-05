@@ -1,0 +1,22 @@
+.todo-form{
+    background: #500e50;
+    color: white;
+    padding: 10px;
+}
+input[type=text]{
+    padding: 7px;
+    width: 250px;
+    border-radius: 5px;
+    border: 0px;
+}
+.todo-button{
+    color:white;
+    background: dodgerblue;
+    font-size: 14px;
+    font-weight: 600px;
+    border: none;
+    border-radius: 6px;
+    padding:5px;
+    margin-left: 15px;
+    cursor: pointer;
+}
