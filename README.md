@@ -1,6 +1,3 @@
----
-permalink: //index.html
----
 # Todo-List App
 
 
