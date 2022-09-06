@@ -1,18 +1,15 @@
 # Todo-List App
-
-
 ## By Damaris Wanjiku
-
-
 ### Description
-
 In this project I build application that can be used to add plans of your day,what you intend to do and at the end of the day mark what you were able to accomplish.
 ### Live link 
-
+https://631798ee7ae6c30821e7c450--lustrous-kangaroo-638748.netlify.app/
 ### Built with
 #### HTML- To develop the structure and content of the webpage.
 #### CSS- To add styling to the page.
 #### React.js- To manage our states.
+#### React.js- To manage our states.
+#### UseState Hooks-To allow changes reflect on the DOM as a user interacts with the application.
 MIT License
 
 Copyright (c) 2022 WDamaris
