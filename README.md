@@ -6,7 +6,7 @@
 
 ### Description
 
-In this project I build application that can be used to make plans of your day,what you intend to do and at the end of the day mark what you were able to accomplish.
+In this project I build application that can be used to add plans of your day,what you intend to do and at the end of the day mark what you were able to accomplish.
 ### Live link 
 
 ### Built with
